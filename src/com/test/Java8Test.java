@@ -13,6 +13,7 @@ public class Java8Test {
 
         System.out.println("1+1=" + test.operate(1, 1, addition));
 
+
     }
 
     interface MathOperation {
