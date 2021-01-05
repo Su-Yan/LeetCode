@@ -1,4 +1,4 @@
-package com.yansugeo;
+package com.algorithm;
 
 /**
  * 排序算法
